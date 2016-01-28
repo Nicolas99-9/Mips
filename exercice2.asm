@@ -21,4 +21,6 @@ print_int:
       jr $ra
       
 
+
+#ts
 	
